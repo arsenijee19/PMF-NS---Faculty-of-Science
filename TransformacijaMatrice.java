@@ -11,7 +11,7 @@
 
 
 import java.util.Scanner;
-public class Stepen {
+public class TransformacijaMatrice {
 
     public static void printMatrix(int mat[][], int n) {
 
