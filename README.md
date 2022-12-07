@@ -1,4 +1,4 @@
-# Prirodno-matematički Fakultet / Faculty of Science Novi Sad
+# Prirodno-matematički Fakultet / Faculty of Science - Novi Sad
 
 Main language - Java
 
